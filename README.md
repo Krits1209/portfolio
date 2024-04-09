@@ -5,15 +5,3 @@ The Portfolio Website task is designed to showcase my personal information and a
 
 Preview
 You can preview the Portfolio Website by visiting the following link: 
-
-Task 2: Temperature Converter
-The Temperature Converter task involves creating a simple website to convert temperatures from Celsius to Fahrenheit and vice versa. It utilizes HTML, CSS, and JavaScript to provide a user-friendly interface for temperature conversion.
-
-Preview
-You can preview the Temperature Converter website by visiting the following link:
-
-Task 3: Homepage of Netflix
-The Homepage of Netflix task aims to recreate a simplified version of Netflix's homepage using HTML and CSS. It replicates the visual design and layout of the original Netflix homepage.
-
-Preview
-You can preview the Netflix Homepage replica by visiting the following link:
