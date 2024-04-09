@@ -3,5 +3,4 @@ This repository contains the completed tasks I worked on as a web development in
 Task 1: Portfolio Website
 The Portfolio Website task is designed to showcase my personal information and accomplishments. It provides an overview of my skills, experiences, and projects. The website is built using HTML and CSS.
 
-Preview
-You can preview the Portfolio Website by visiting the following link: 
+
